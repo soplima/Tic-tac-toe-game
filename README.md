@@ -8,7 +8,7 @@ How to play
 4. The program will then display the updated board and prompt the next player to make their move.
 5. The game will continue until one player wins or the game ends in a tie.
 
-Board layout:
+Board layout: "
    |   |   
  1 | 2 | 3 
 ___|___|___
@@ -18,3 +18,4 @@ ___|___|___
    |   |   
  7 | 8 | 9 
    |   |   
+"
